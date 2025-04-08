@@ -1,4 +1,3 @@
-// src/components/Hero/styles.ts
 import styled from 'styled-components'
 
 export const Form = styled.form`

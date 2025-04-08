@@ -1,7 +1,5 @@
-// src/components/Vaga/styles.ts
 import styled from 'styled-components'
 
-// Assume que você tem um ThemeProvider configurado com um tema que tem corPrincipal e corSecundaria
 export const Vaga = styled.li`
   border: 1px solid ${(props) => props.theme.corPrincipal};
   background-color: ${(props) => props.theme.corSecundaria};
